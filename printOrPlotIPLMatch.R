@@ -1,5 +1,5 @@
 # ############################################################################################333333
-# Title :  Googly - An interactive app to analyze IPL Players, teams and matches 
+# Title :  GooglyPlus - An interactive app to analyze IPL Players, teams and matches 
 # Designed and developed by: Tinniam V Ganesh
 # Date : 5 Jan 2016
 # File: printOrPlotIPLMatch
